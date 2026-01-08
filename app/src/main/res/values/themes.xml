@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Use Theme.AppCompat.Light.NoActionBar to be safe with CameraView, 
+         but we will override colors in Compose -->
+    <style name="Theme.SmartQR" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>

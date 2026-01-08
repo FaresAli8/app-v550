@@ -1,0 +1,7 @@
+{
+  "description": "SmartQR Android App (Fixed Transitive Dependency Issue)",
+  "buildSystem": "Gradle 8.4",
+  "minSdk": 24,
+  "targetSdk": 34,
+  "kotlin": "1.9.22"
+}
